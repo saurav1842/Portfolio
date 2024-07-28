@@ -61,7 +61,7 @@ function Header() {
             </NavLink>
           </li>
           <li>
-          <a href='Resume - Saurav Suman.pdf' download="Resume.pdf" class="mt-5 md:mt-0 btn bg-greenbg text-green-text text-xs inline-block rounded-3xl px-3 py-1 min-w-fit">Download Resume</a>
+          <a href='Resume - Saurav Suman1.pdf' download="Resume.pdf" class="mt-5 md:mt-0 btn bg-greenbg text-green-text text-xs inline-block rounded-3xl px-3 py-1 min-w-fit">Download Resume</a>
           </li>
         </ul>
         <ul className="flex justify-evenly items-center my-5 md:my-0 md:space-x-5 md:mr-5">
